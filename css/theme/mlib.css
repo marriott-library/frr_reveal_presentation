@@ -13,7 +13,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 body {
   background-color: #fff;
   background-image: url('../../images/marriottLibraryLogo.png'); /* fallback */
-  background-image: url('../../images/marriottLibraryLogo.png'), linear-gradient(#ffffff, #e0e0e0); /* W3C */
+/*  background-image: url('../../images/marriottLibraryLogo.png'), linear-gradient(#ffffff, #e0e0e0); */
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 97% 2%;
