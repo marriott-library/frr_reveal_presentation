@@ -116,6 +116,12 @@ body {
   display: block;
   margin-left: 40px; }
 
+.color_list li {
+  color: #aa0000; }
+
+.color_list li > span {
+  color: #222; }
+
 .reveal dt {
   font-weight: bold; }
 
