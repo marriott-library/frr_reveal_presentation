@@ -284,6 +284,10 @@ body {
 .reveal .controls .navigate-down.enabled:hover {
   border-top-color: #ff0000; }
 
+html.img-right div.slide-background.present {
+    background-position: right;
+}
+
 /*********************************************
  * PROGRESS BAR
  *********************************************/
